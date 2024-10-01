@@ -1,3 +1,4 @@
+# Hello, world! 👋
 - 👋 Hi, I’m @DaniceB
 - 👀 I’m interested in filming, art, and design
 - 🌱 I’m currently learning Graphic Design
