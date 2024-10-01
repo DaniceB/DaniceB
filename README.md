@@ -1,5 +1,6 @@
 # Hello, world! 👋
-| About me | Introduction |
+| Likes | Dislikes |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| My cat | Matcha |
+| Fruity bubble tea | Winter seasons |
+| Art | Slow transit |
