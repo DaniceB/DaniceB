@@ -35,6 +35,9 @@
 2. Winter season
 3. Slow transit
 
+<h4>A fun thing I believe in</h4>
+I believe that fruit is better than candy :eyeballs:
+
 <h4> My favourite colours are below! </h4>
 
 ![#FFDDA1](https://placehold.co/15x15/FFDDA1/FFDDA1.png) `#FFDDA1`
