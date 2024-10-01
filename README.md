@@ -3,7 +3,7 @@
 <p>My name is Danice Mikhaela, feel free to call me either Danice or Mikha!</p>
 <p>I am a first-year in Graphic Design at SAIT under the School for Advanced Technology! I am pretty new at coding, filming and the design field but I am excited to improve on github, photoshop and illustrator as I progress further into my education.</p>
 
-<h2> What do I do? </h2>
+<h2> What do I do currently? </h2>
 <p>I currently work at a movie theatre, where I have to...</p>
 
 - tackle multi-tasking
@@ -24,9 +24,16 @@
 <h4> Fun Facts About Me! </h4>
 
 💛Likes💛
+
 1. My cat Rosé
 2. Bubble tea (the fruity ones)
 3. Musicals 
+
+:black_heart: Dislikes :black_heart:
+
+1. Matcha/Green Tea (by itself)
+2. Winter season
+3. Slow transit
 
 <h4> My favourite colours are below! </h4>
 
