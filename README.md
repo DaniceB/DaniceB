@@ -1,3 +1,4 @@
+# Hello, world! 👋
 <h1> Who Am I? </h1>
 <p>Hello!</p>
 <p>My name is Danice Mikhaela, feel free to call me either Danice or Mikha!</p>
