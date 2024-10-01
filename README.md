@@ -5,11 +5,14 @@
 
 <h2> What do I do? </h2>
 <p>I currently work at a movie theatre, where I have to...</p>
+
 1. tackle multi-tasking
 2. providing friendly 
 3. fast service to guests
 4. making sure to maintain a clean environment to improve guests experience. 
+
 <p>Along with working, I am also a full-time student where I have to be...</p>
+
 1. on top of things
 2. organized
 3. efficient with my school work.
