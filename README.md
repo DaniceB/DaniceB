@@ -8,8 +8,7 @@
 <p>I currently work at a movie theatre, where I have to...</p>
 
 - tackle multi-tasking
-- providing friendly 
-- fast service to guests
+- provide friendly and fast service to guests
 - making sure to maintain a clean environment to improve guests experience. 
 
 <p>Along with working, I am also a full-time student where I have to be...</p>
