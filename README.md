@@ -22,3 +22,9 @@
 ![#FFDDA1](https://placehold.co/15x15/FFDDA1/FFDDA1.png) `#FFDDA1`
 ![#F49FBC](https://placehold.co/15x15/F49FBC/F49FBC.png) `#F49FBC`
 ![#BBDEF0](https://placehold.co/15x15/BBDEF0/BBDEF0.png) `#BBDEF0`
+
+<h4> Some goals of mine! </h4>
+
+- [ ] Learn more about film and design
+- [ ] Improve on presentation and writing skills
+- [ ] Get better at coding
