@@ -36,7 +36,7 @@
 3. Slow transit
 
 <h4>A fun thing I believe in</h4>
-I believe that fruit is better than candy :eyeballs:
+I believe that fruit is better than candy :eyes:
 
 <h4> My favourite colours are below! </h4>
 
